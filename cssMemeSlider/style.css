@@ -88,8 +88,7 @@ body {
 
 .slider-descriptions {
   height: 4em;
-  display: flex;
-  align-items: center;
+  display: block;
 }
 
 .slider-controls {
