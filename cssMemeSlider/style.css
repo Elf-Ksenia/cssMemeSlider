@@ -102,8 +102,6 @@ body {
 .control {
   width: 3em;
   height: 3em;
-  display: flex;
-  align-items: center;
 }
 
 .control-circle {
@@ -169,7 +167,7 @@ body {
   }
 
   .slider {
-    margin: 0.8em;
+    margin: 1.2em;
   }
   .slider-controls {
     order: 0;
@@ -182,7 +180,6 @@ body {
   }
 
   .slider-descriptions {
-    margin-top: 0.7em;
     order: 1;
     height: 2em;
   }
