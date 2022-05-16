@@ -26,6 +26,7 @@ body {
 .slider-container {
   background: #000;
   width: 100%;
+  max-width: 50em;
   margin: 0 auto;
   height: fit-content;
   display: flex;
@@ -42,6 +43,8 @@ body {
   margin: 1.5em;
   text-align: center;
   position: relative;
+  display: flex;
+  justify-content: center;
 }
 
 .slide-img {
