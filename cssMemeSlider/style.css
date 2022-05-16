@@ -16,17 +16,12 @@ body {
   to {opacity: 1;}
 }
 
-
-/*@scroll-timeline slide-animation {
-  time-range: 1s;
-}*/
-
 /* end animation */
 
 .slider-container {
   background: #000;
   width: 100%;
-  max-width: 50em;
+  max-width: 70em;
   margin: 0 auto;
   height: fit-content;
   display: flex;
